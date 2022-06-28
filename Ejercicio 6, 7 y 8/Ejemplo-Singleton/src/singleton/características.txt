@@ -1,0 +1,18 @@
+Identifica las características principales de los patrones de diseño más conocidos, indica para qué valen y un caso de uso para cada uno de ellos.
+
+Crea una pequeña aplicación implementando el patrón Singlenton y demuestra que, efectivamente, no crea instancias nuevas. Puedes tomar la sesión 7 como referencia.
+
+
+Singletón: Permite una única instancia de un objeto.
+
+Factory: Sirve para manejar/contruir una jerarquía de clases y utilizar una u otra de manera transparente.
+
+Builder: Sirve para construir objetos completos de manera fluida y práctica.
+
+Prototype: Sirve para clonar una clase y que ese clon, absorba todas las características de la clase original, incluyendo, métodos, atributos, etc.
+
+Decorator: Sirve para añadir funcionalidades extras a una clase ya existente, sin modificar dicha clase.
+
+Adapter: Crea una clase que permite que clases con la misma o distinta implementación de interfaces(Ej.) funciones de manera coherente.
+
+Facade: Sirve como fachada que oculta la lógica de una o varias clases o métodos para así ser invocado por medio de una clase de manera sencilla. 
